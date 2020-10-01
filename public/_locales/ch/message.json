@@ -1,0 +1,50 @@
+
+{
+    “ extensionDescription”：{
+    “ message”：“您的Thunderbird电子邮件帐户的统计数据精美直观”
+    }，
+    “弹出”： {
+    “信息”： ””，
+    “ account”：“帐户|帐户”，
+    “ messagesInFolder”：“ {1}个文件夹中的{0}条消息”
+    }，
+    “统计信息”：{
+    “信息”： ””，
+    “ mailsTotal”：“邮件总数”，
+    “ withinYears”：“在{0}年内”，
+    “ mailsUnread”：“邮件未读”，
+    “ niceWork”：“很好的工作！”，
+    “ percentOfReceived”：“已收到的{0}％”，
+    “ mailsReceived”：“已收到邮件”，
+    “ percentOfTotal”：“占总数的{0}％”，
+    “ mailsS​​ent”：“已发送邮件”，
+    “ mailsPerMonth”：“每月邮件”，
+    “ mailsYear”：“邮件/年”，
+    “ mailsPerDay”：“每天的邮件”，
+    “ mailsWeek”：“每周邮件”，
+    “图表”：{
+    “年”：{
+    “ title”：“年份”，
+    “ description”：“每年的电子邮件总数”
+    }，
+    “月”：{
+    “ title”：“几个月”，
+    “ description”：“每月电子邮件总数”
+    }，
+    “白天”：{
+    “ title”：“白天”，
+    “ description”：“一天中每个时间的电子邮件数量”
+    }，
+    “工作日”：{
+    “ title”：“平日”，
+    “ description”：“一周中的每一天的电子邮件数”
+    }，
+    “ temporalDistribution”：{
+    “ title”：“时间分布”，
+    “ descriptionReceived”：“每小时工作日每小时收到的电子邮件数”，
+    “ descriptionSent”：“每小时工作日每小时发出的电子邮件数”
+    }
+    }，
+    “ starAndImprove”：“在<a href='{0}' target='_blank'> Github </a>上加注星标并改进此项目”
+    }
+    }
